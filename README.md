@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Mathgardino">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Mathgardino&count_private=true&include_all_commits=true&show_icons=true&theme=blue&hide_border=false&show_owner=true" style="max-width: 48%;"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathgardino&theme=blue&hide_border=false&&layout=compact" style="max-width: 20%;"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathgardino&theme=blue&hide_border=false&&layout=compact" style="max-width: 48%;"/>
   </a>
 </div>
 
